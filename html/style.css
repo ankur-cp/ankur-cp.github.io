@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    color: #0033aa
+}
